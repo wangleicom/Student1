@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>简历</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="c:/CSS/jianli-css.css"/>
+</head>
+<body background="">
+	<div class="item" align="center" bgcolor="#666666">
+		
+		<table  width="600" align="center">
+			<tr>				
+				<td align="center"><h3>个人简历</h3>
+				</td>
+				<td >
+					
+				<img src="../images/img_6.jpg" width="130" height="130" alt="图片" align="right">
+				</td>
+			</tr>
+		</table>
+		
+		<table  align="center" width="600">
+			
+			<hr width="700" align="center"/>
+			<tr>
+				<td>姓名:</td>
+				<td width="100" height="50" align="left"><font face=华文行楷  size=6><h5>汪磊</h5></font></td>
+				
+				<td>性别:</td>
+				<td width="100" height="50"><font face=华文行楷  size=6><h5>男</h5></font></td>
+				<td>民族:</td>
+				<td width="100" height="50"><h5>汉</h5></td>
+			</tr>
+			<tr>
+				<td>出生年月:</td>
+				<td width="100" height="50"><font face=华文行楷  size=6><h5>1995年 03月</h5></font></td>
+				
+				<td>联系电话:</td>
+				<td width="100" height="50"><h5>177****8024</h5></td>
+				
+			</tr>
+			<tr>
+				<td>学历:</td>
+				<td width="100" height="50">本科</td>
+				
+				<td>专业:</td>
+				<td width="100" height="50">通信工程</td>
+				<td>毕业学校:</td>
+				<td width="100" height="50">杭电信工</td>
+			</tr>
+			
+			<tr>
+				<td>电子邮箱:</td>
+				<td height="50">952680691@qq.com</td>
+			</tr>
+			<tr>
+			<td>实践经历：</td>
+				<td width="100" height="50">
+				   <ul>
+				      <li>担任班长</li>
+					  <li>校合唱队</li>
+				   </ul>
+				   </td>
+			</tr>
+			<tr>
+				<td align="center">求职意向:</td>
+				<td height="50">大数据工程师</td>
+			</tr>
+	    </table>
+	    <hr width="800" align="center">
+	    <table align="center" width="600">
+	        <tr>
+				<td>掌握技能:</td>
+				<td height="50"></td>
+			</tr>
+			<tr>
+				<td>获奖经历:</td>
+				<td height="50"></td>
+			</tr>		
+			<tr>
+				<font size><td>爱好特长:</td></font>
+				<td height="50"></td>
+			</tr>
+		</table>
+			
+		<hr width="800" align="center"/>
+				
+		<table align="center" width="600">
+		 <tr>
+		   <td>
+		 自我评价:
+		   </td>
+		   <td height="50"></td>
+		</tr>
+		   
+		</table>
+ 
+ 
+	  
+	</div>
+</body>
+</html>
