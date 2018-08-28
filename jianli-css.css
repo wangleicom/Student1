@@ -1,0 +1,29 @@
+.item{
+	    
+		background: url(../images/img_3.jpg);
+		width:800px;
+		height:800px;
+		margin-left:auto;
+        margin-right:auto;
+				
+	   
+    }
+ 
+.div{
+	border:50px;
+	border-radius: 5px;
+	background: url(../img/b1.jpg);
+	position: 80px;
+	background-size: 100% auto;
+	width: 65%;
+	height: 100%;
+	margin-left:auto;
+	margin-right:auto
+   }  
+.pclass{
+ 	 font-size:40px;
+   }  
+ .h4class{
+ 	font-size: 15px;
+ 	padding-left: 26px;
+   }
